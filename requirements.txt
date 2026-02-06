@@ -1,0 +1,17 @@
+# ===== LLM / Ollama =====
+ollama
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+
+# ===== Benchmark / Evaluation =====
+datasets
+transformers
+evaluate
+evalplus
+
+# ===== Utility =====
+python-dotenv
+tqdm
+tenacity
